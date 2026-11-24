@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: short-opera
+    runtime: static
+    staticPublishPath: .
